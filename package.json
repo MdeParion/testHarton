@@ -1,0 +1,27 @@
+{
+  "name": "botjs",
+  "version": "1.0.0",
+  "description": "un bot en JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdeParion/testHarton.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "javascript"
+  ],
+  "author": "Parion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdeParion/testHarton/issues"
+  },
+  "homepage": "https://github.com/MdeParion/testHarton#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
